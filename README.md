@@ -160,7 +160,7 @@ print("212223240127")
 
 ### Sample Text Prediction
 
-![image](https://github.com/S-Priyadharshan/named-entity-recognition/assets/145854138/2ec8a8eb-95c9-491f-acf5-f4384a1fa716)
+![image](https://github.com/S-Priyadharshan/named-entity-recognition/assets/145854138/98a6f0e0-a918-4b6e-9c3d-90966b04f642)
 
 
 ## RESULT
